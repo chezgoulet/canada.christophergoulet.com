@@ -610,17 +610,6 @@ footer p{
           <svg viewBox="0 0 24 24" width="14" height="14"><use href="#i-arrow"/></svg>
         </a>
       </div>
-
-      <!-- Vermont Public press mention -->
-      <div style="margin-top:28px;padding:16px 24px;border:1px solid #1a3d2b;border-radius:8px;background:linear-gradient(135deg,rgba(26,61,43,.08),rgba(26,61,43,.03));text-align:center;max-width:480px;margin-left:auto;margin-right:auto">
-        <p style="font-family:var(--mono);font-size:10px;letter-spacing:1.5px;color:#4a8a5e;text-transform:uppercase;margin-bottom:6px">As heard on</p>
-        <img src="https://npr.brightspotcdn.com/dims4/default/4befa3c/2147483647/strip/true/crop/3299x962+0+0/resize/267x78!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F57%2Fa6ec466148258ff7098d163fe4a5%2Fvermontpublic-horizontallogo-fullcolor-lighttype-grove.png" alt="Vermont Public" style="height:22px;width:auto;margin:0 auto 6px;display:block;filter:brightness(1.2)" loading="lazy">
-        <p style="font-size:12px;color:var(--text3);line-height:1.5;max-width:38ch;margin:0 auto">
-          <span class="lang-en"><a href="https://www.vermontpublic.org/show/vermont-edition/2026-04-02/so-youre-thinking-about-getting-canadian-citizenship-eh" target="_blank" rel="noopener" style="color:#6abf7e;border-bottom:1px solid #6abf7e">Listen to the episode →</a> — Vermont Edition, April 2026</span>
-          <span class="lang-fr"><a href="https://www.vermontpublic.org/show/vermont-edition/2026-04-02/so-youre-thinking-about-getting-canadian-citizenship-eh" target="_blank" rel="noopener" style="color:#6abf7e;border-bottom:1px solid #6abf7e">Écouter l'épisode →</a> — Vermont Edition, avril 2026</span>
-        </p>
-      </div>
-
       <!-- Stats bar (inline, mono, small) -->
       <div class="stats-bar reveal">
         <span class="stat"><span class="dot" style="vertical-align:middle"></span># under 5,000</span>
@@ -647,6 +636,15 @@ footer p{
       <div class="pull">"Getting to go through the official citizenship ceremony and holding my certificate of Canadian citizenship finally at long last was one of the proudest days of my life. Because I was right. I am Canadian, and I always was all along."</div>
       <p>I want to contribute to a society that opened the door and welcomed me in with open arms.</p>
       <div class="closing">Bienvenue chez vous.</div>
+    </div>
+
+    <!-- PRESS -->
+    <div class="proof" style="border:1px solid var(--line);border-radius:var(--radius);background:var(--panel);padding:24px 28px;text-align:center;margin-top:30px">
+      <p style="font-family:var(--mono);font-size:10.5px;letter-spacing:1.5px;color:var(--text3);margin-bottom:8px">PRESS</p>
+      <p style="font-size:14px;color:var(--text2);font-weight:300;max-width:56ch;margin:0 auto;line-height:1.6">
+        <span class="lang-en">Listen to Christopher on <strong style="color:var(--text);font-weight:400">Vermont Edition</strong> — Vermont Public's daily news show — talking about the Found Canadian journey with host Mikaela Lefrak. <a href="https://www.vermontpublic.org/show/vermont-edition/2026-04-02/so-youre-thinking-about-getting-canadian-citizenship-eh" target="_blank" rel="noopener" style="color:var(--accent);border-bottom:1px solid var(--accent)">Listen to the episode →</a></span>
+        <span class="lang-fr">Écoutez Christopher sur <strong style="color:var(--text);font-weight:400">Vermont Edition</strong> — le journal quotidien de Vermont Public — qui parle du parcours Found Canadian avec l'animatrice Mikaela Lefrak. <a href="https://www.vermontpublic.org/show/vermont-edition/2026-04-02/so-youre-thinking-about-getting-canadian-citizenship-eh" target="_blank" rel="noopener" style="color:var(--accent);border-bottom:1px solid var(--accent)">Écouter l'épisode →</a></span>
+      </p>
     </div>
   </div>
 </section>
@@ -779,17 +777,6 @@ footer p{
           <svg viewBox="0 0 24 24" width="14" height="14"><use href="#i-arrow"/></svg>
         </a>
       </div>
-
-      <!-- Vermont Public press mention -->
-      <div style="margin-top:28px;padding:16px 24px;border:1px solid #1a3d2b;border-radius:8px;background:linear-gradient(135deg,rgba(26,61,43,.08),rgba(26,61,43,.03));text-align:center;max-width:480px;margin-left:auto;margin-right:auto">
-        <p style="font-family:var(--mono);font-size:10px;letter-spacing:1.5px;color:#4a8a5e;text-transform:uppercase;margin-bottom:6px">As heard on</p>
-        <img src="https://npr.brightspotcdn.com/dims4/default/4befa3c/2147483647/strip/true/crop/3299x962+0+0/resize/267x78!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F57%2Fa6ec466148258ff7098d163fe4a5%2Fvermontpublic-horizontallogo-fullcolor-lighttype-grove.png" alt="Vermont Public" style="height:22px;width:auto;margin:0 auto 6px;display:block;filter:brightness(1.2)" loading="lazy">
-        <p style="font-size:12px;color:var(--text3);line-height:1.5;max-width:38ch;margin:0 auto">
-          <span class="lang-en"><a href="https://www.vermontpublic.org/show/vermont-edition/2026-04-02/so-youre-thinking-about-getting-canadian-citizenship-eh" target="_blank" rel="noopener" style="color:#6abf7e;border-bottom:1px solid #6abf7e">Listen to the episode →</a> — Vermont Edition, April 2026</span>
-          <span class="lang-fr"><a href="https://www.vermontpublic.org/show/vermont-edition/2026-04-02/so-youre-thinking-about-getting-canadian-citizenship-eh" target="_blank" rel="noopener" style="color:#6abf7e;border-bottom:1px solid #6abf7e">Écouter l'épisode →</a> — Vermont Edition, avril 2026</span>
-        </p>
-      </div>
-
       <!-- Stats bar -->
       <div class="stats-bar reveal">
         <span class="stat"><span class="dot" style="vertical-align:middle"></span># moins de 5 000</span>
